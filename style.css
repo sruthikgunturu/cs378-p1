@@ -45,6 +45,7 @@ body {
 
   #food_name{
     text-align: left;
+    font-size: small;
   }
 
   #food_price{
