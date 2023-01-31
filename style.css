@@ -58,8 +58,8 @@ body {
     border-radius: 80%;
     width: 37%;
     border: 3px solid black;
-    width: -moz-fit-content;
     width: fit-content;
+    font-size: small;
   }
 
   .clearfix::after {
